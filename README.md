@@ -27,7 +27,9 @@ Submit the HTML at least **five business days** before the target send date.
 
 - `email.html` — Marketo-coded email, **600px only** (`mktEditable` regions: preheader, hero, legal). No page chrome / extra background.
 - `index.html` — browser preview (subject + iframe)
-- `images/hero.jpg` — Figma frame (1200×760, displayed at 600×380), hosted on GitHub Pages
+- `images/HI-INC-Email-v1.jpg` — Figma frame (displayed at 600×380), hosted on GitHub Pages
+
+![HI Inc. eblast](images/HI-INC-Email-v1.jpg)
 
 ## Preview
 
