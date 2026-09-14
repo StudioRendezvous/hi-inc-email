@@ -25,7 +25,7 @@ Submit the HTML at least **five business days** before the target send date.
 
 ## Files
 
-- `email.html` — Marketo-coded email (`mktEditable` regions: preheader, logo, headline, body-copy, cta, legal)
+- `email.html` — Marketo-coded email (`mktEditable` regions: preheader, logo, headline, body-copy, cta, legal). Image `src`s are absolute GitHub Pages URLs so the file is paste-ready.
 - `index.html` — browser preview (subject + iframe)
 - `images/bg.jpg` — 600×380 wash
 - `images/logo.png` — Human Interest lockup
