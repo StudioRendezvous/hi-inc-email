@@ -25,9 +25,10 @@ Submit the HTML at least **five business days** before the target send date.
 
 ## Files
 
-- `email.html` — Marketo-coded email, **600px only** (`mktEditable` regions: preheader, hero, legal). No page chrome / extra background.
-- `index.html` — browser preview (subject + iframe)
-- `images/HI-INC-Email-v2.jpg` — Figma frame with Maxx Potential photo (displayed at 600×380)
+- `email.html` — 600px Marketo email. Live HTML for headline + body. Only **Get started** is the signup link. Guy photo is a hosted image, not a link.
+- `index.html` — browser preview
+- `images/logo.png` — Human Interest lockup
+- `images/maxx-potential.jpg` — hero photo (right column)
 
 ![HI Inc. eblast](images/HI-INC-Email-v2.jpg)
 
